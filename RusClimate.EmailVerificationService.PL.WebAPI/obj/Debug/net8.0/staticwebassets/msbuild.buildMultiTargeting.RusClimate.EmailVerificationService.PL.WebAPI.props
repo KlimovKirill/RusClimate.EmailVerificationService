@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RusClimate.EmailVerificationService.PL.WebAPI.props" />
+</Project>

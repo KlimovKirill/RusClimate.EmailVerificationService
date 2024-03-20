@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jikVWp7c3+ZcR94BXnCsOtSQmhlaG6Vrq4puRK3IVRBJd0+H9t2FCuemPF9nKELRoQh5eznQJoj/dIOcymiBmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.Common.Settings.Ioc\\RusClimate.EmailVerificationService.Common.Settings.Ioc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ROKO000000160\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\ROKO000000160\\.nuget\\packages\\microsoft.extensions.configuration.binder\\8.0.1\\microsoft.extensions.configuration.binder.8.0.1.nupkg.sha512",
+    "C:\\Users\\ROKO000000160\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\ROKO000000160\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

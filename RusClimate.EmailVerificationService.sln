@@ -1,0 +1,94 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RusClimate.EmailVerificationService.PL.WebAPI", "RusClimate.EmailVerificationService.PL.WebAPI\RusClimate.EmailVerificationService.PL.WebAPI.csproj", "{5D32AB99-CE02-4896-934D-ED237A6D6014}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DAL", "DAL", "{BA54AF25-FDD0-46FD-996E-E88B928F6C44}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BLL", "BLL", "{6CA216CA-1028-475C-9D4B-8D518A2EAA48}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PL", "PL", "{A72B3F3A-202A-46CD-9E08-E1BDBB40C985}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RusClimate.EmailVerificationService.DAL.Postgres.EF", "RusClimate.EmailVerificationService.DAL.Postgres.EF\RusClimate.EmailVerificationService.DAL.Postgres.EF.csproj", "{8138E5DB-0C95-40FA-BD88-D8A2F8C32BDC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RusClimate.EmailVerificationService.DAL.Postgres.Repository", "RusClimate.EmailVerificationService.DAL.Postgres.Repository\RusClimate.EmailVerificationService.DAL.Postgres.Repository.csproj", "{3B09E3AC-81CD-4071-B0DF-86331D1AF65D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RusClimate.EmailVerificationService.DAL.Postgres.Interface", "RusClimate.EmailVerificationService.DAL.Postgres.Interface\RusClimate.EmailVerificationService.DAL.Postgres.Interface.csproj", "{D5788FB6-C356-4647-BADB-E0857A7E5F0A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RusClimate.EmailVerificationService.BLL.Service", "RusClimate.EmailVerificationService.BLL.Service\RusClimate.EmailVerificationService.BLL.Service.csproj", "{8AD343F3-6AF5-49B1-9204-00E00F3FEFEA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RusClimate.EmailVerificationService.BLL.Interface", "RusClimate.EmailVerificationService.BLL.Interface\RusClimate.EmailVerificationService.BLL.Interface.csproj", "{C90A2BD8-457C-4DB9-A6C8-50378415EEAE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{71BB6B6A-1654-45AD-AB79-FFB6C02AA807}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RusClimate.EmailVerificationService.Common.Settings", "RusClimate.EmailVerificationService.Common.Settings\RusClimate.EmailVerificationService.Common.Settings.csproj", "{51AC3D40-0198-4E05-BC69-4EB9D0D3A126}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RusClimate.EmailVerificationService.Common.Settings.Ioc", "RusClimate.EmailVerificationService.Common.Settings.Ioc\RusClimate.EmailVerificationService.Common.Settings.Ioc.csproj", "{05359E7A-E67F-48AF-83C8-6888F2B14F25}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{08566545-6572-4297-B85E-5AACA35E8E58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RusClimate.EmailVerificationService.Tests", "RusClimate.EmailVerificationService.Tests\RusClimate.EmailVerificationService.Tests.csproj", "{CFCB79BD-289C-4D15-A143-A4C62E5DBB31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D32AB99-CE02-4896-934D-ED237A6D6014}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D32AB99-CE02-4896-934D-ED237A6D6014}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D32AB99-CE02-4896-934D-ED237A6D6014}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D32AB99-CE02-4896-934D-ED237A6D6014}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8138E5DB-0C95-40FA-BD88-D8A2F8C32BDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8138E5DB-0C95-40FA-BD88-D8A2F8C32BDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8138E5DB-0C95-40FA-BD88-D8A2F8C32BDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8138E5DB-0C95-40FA-BD88-D8A2F8C32BDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B09E3AC-81CD-4071-B0DF-86331D1AF65D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B09E3AC-81CD-4071-B0DF-86331D1AF65D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B09E3AC-81CD-4071-B0DF-86331D1AF65D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B09E3AC-81CD-4071-B0DF-86331D1AF65D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5788FB6-C356-4647-BADB-E0857A7E5F0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5788FB6-C356-4647-BADB-E0857A7E5F0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5788FB6-C356-4647-BADB-E0857A7E5F0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5788FB6-C356-4647-BADB-E0857A7E5F0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AD343F3-6AF5-49B1-9204-00E00F3FEFEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AD343F3-6AF5-49B1-9204-00E00F3FEFEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AD343F3-6AF5-49B1-9204-00E00F3FEFEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AD343F3-6AF5-49B1-9204-00E00F3FEFEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C90A2BD8-457C-4DB9-A6C8-50378415EEAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C90A2BD8-457C-4DB9-A6C8-50378415EEAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C90A2BD8-457C-4DB9-A6C8-50378415EEAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C90A2BD8-457C-4DB9-A6C8-50378415EEAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51AC3D40-0198-4E05-BC69-4EB9D0D3A126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51AC3D40-0198-4E05-BC69-4EB9D0D3A126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51AC3D40-0198-4E05-BC69-4EB9D0D3A126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51AC3D40-0198-4E05-BC69-4EB9D0D3A126}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05359E7A-E67F-48AF-83C8-6888F2B14F25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05359E7A-E67F-48AF-83C8-6888F2B14F25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05359E7A-E67F-48AF-83C8-6888F2B14F25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05359E7A-E67F-48AF-83C8-6888F2B14F25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFCB79BD-289C-4D15-A143-A4C62E5DBB31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFCB79BD-289C-4D15-A143-A4C62E5DBB31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFCB79BD-289C-4D15-A143-A4C62E5DBB31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFCB79BD-289C-4D15-A143-A4C62E5DBB31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5D32AB99-CE02-4896-934D-ED237A6D6014} = {A72B3F3A-202A-46CD-9E08-E1BDBB40C985}
+		{8138E5DB-0C95-40FA-BD88-D8A2F8C32BDC} = {BA54AF25-FDD0-46FD-996E-E88B928F6C44}
+		{3B09E3AC-81CD-4071-B0DF-86331D1AF65D} = {BA54AF25-FDD0-46FD-996E-E88B928F6C44}
+		{D5788FB6-C356-4647-BADB-E0857A7E5F0A} = {BA54AF25-FDD0-46FD-996E-E88B928F6C44}
+		{8AD343F3-6AF5-49B1-9204-00E00F3FEFEA} = {6CA216CA-1028-475C-9D4B-8D518A2EAA48}
+		{C90A2BD8-457C-4DB9-A6C8-50378415EEAE} = {6CA216CA-1028-475C-9D4B-8D518A2EAA48}
+		{51AC3D40-0198-4E05-BC69-4EB9D0D3A126} = {71BB6B6A-1654-45AD-AB79-FFB6C02AA807}
+		{05359E7A-E67F-48AF-83C8-6888F2B14F25} = {71BB6B6A-1654-45AD-AB79-FFB6C02AA807}
+		{CFCB79BD-289C-4D15-A143-A4C62E5DBB31} = {08566545-6572-4297-B85E-5AACA35E8E58}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32D031DF-225B-4AB1-8685-049B4071B39F}
+	EndGlobalSection
+EndGlobal

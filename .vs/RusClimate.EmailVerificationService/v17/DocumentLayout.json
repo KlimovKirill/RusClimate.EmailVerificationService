@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D32AB99-CE02-4896-934D-ED237A6D6014}|RusClimate.EmailVerificationService.PL.WebAPI\\RusClimate.EmailVerificationService.PL.WebAPI.csproj|c:\\users\\roko000000160\\source\\repos\\rusclimate.emailverificationservice\\rusclimate.emailverificationservice.pl.webapi\\models\\sendinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D32AB99-CE02-4896-934D-ED237A6D6014}|RusClimate.EmailVerificationService.PL.WebAPI\\RusClimate.EmailVerificationService.PL.WebAPI.csproj|solutionrelative:rusclimate.emailverificationservice.pl.webapi\\models\\sendinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D32AB99-CE02-4896-934D-ED237A6D6014}|RusClimate.EmailVerificationService.PL.WebAPI\\RusClimate.EmailVerificationService.PL.WebAPI.csproj|c:\\users\\roko000000160\\source\\repos\\rusclimate.emailverificationservice\\rusclimate.emailverificationservice.pl.webapi\\controllers\\verifycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D32AB99-CE02-4896-934D-ED237A6D6014}|RusClimate.EmailVerificationService.PL.WebAPI\\RusClimate.EmailVerificationService.PL.WebAPI.csproj|solutionrelative:rusclimate.emailverificationservice.pl.webapi\\controllers\\verifycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD343F3-6AF5-49B1-9204-00E00F3FEFEA}|RusClimate.EmailVerificationService.BLL.Service\\RusClimate.EmailVerificationService.BLL.Service.csproj|c:\\users\\roko000000160\\source\\repos\\rusclimate.emailverificationservice\\rusclimate.emailverificationservice.bll.service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD343F3-6AF5-49B1-9204-00E00F3FEFEA}|RusClimate.EmailVerificationService.BLL.Service\\RusClimate.EmailVerificationService.BLL.Service.csproj|solutionrelative:rusclimate.emailverificationservice.bll.service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD343F3-6AF5-49B1-9204-00E00F3FEFEA}|RusClimate.EmailVerificationService.BLL.Service\\RusClimate.EmailVerificationService.BLL.Service.csproj|c:\\users\\roko000000160\\source\\repos\\rusclimate.emailverificationservice\\rusclimate.emailverificationservice.bll.service\\adapters\\emailadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD343F3-6AF5-49B1-9204-00E00F3FEFEA}|RusClimate.EmailVerificationService.BLL.Service\\RusClimate.EmailVerificationService.BLL.Service.csproj|solutionrelative:rusclimate.emailverificationservice.bll.service\\adapters\\emailadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D32AB99-CE02-4896-934D-ED237A6D6014}|RusClimate.EmailVerificationService.PL.WebAPI\\RusClimate.EmailVerificationService.PL.WebAPI.csproj|c:\\users\\roko000000160\\source\\repos\\rusclimate.emailverificationservice\\rusclimate.emailverificationservice.pl.webapi\\attributes\\tokenlengthattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D32AB99-CE02-4896-934D-ED237A6D6014}|RusClimate.EmailVerificationService.PL.WebAPI\\RusClimate.EmailVerificationService.PL.WebAPI.csproj|solutionrelative:rusclimate.emailverificationservice.pl.webapi\\attributes\\tokenlengthattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D32AB99-CE02-4896-934D-ED237A6D6014}|RusClimate.EmailVerificationService.PL.WebAPI\\RusClimate.EmailVerificationService.PL.WebAPI.csproj|c:\\users\\roko000000160\\source\\repos\\rusclimate.emailverificationservice\\rusclimate.emailverificationservice.pl.webapi\\models\\checkinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D32AB99-CE02-4896-934D-ED237A6D6014}|RusClimate.EmailVerificationService.PL.WebAPI\\RusClimate.EmailVerificationService.PL.WebAPI.csproj|solutionrelative:rusclimate.emailverificationservice.pl.webapi\\models\\checkinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFCB79BD-289C-4D15-A143-A4C62E5DBB31}|RusClimate.EmailVerificationService.Tests\\RusClimate.EmailVerificationService.Tests.csproj|c:\\users\\roko000000160\\source\\repos\\rusclimate.emailverificationservice\\rusclimate.emailverificationservice.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFCB79BD-289C-4D15-A143-A4C62E5DBB31}|RusClimate.EmailVerificationService.Tests\\RusClimate.EmailVerificationService.Tests.csproj|solutionrelative:rusclimate.emailverificationservice.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B09E3AC-81CD-4071-B0DF-86331D1AF65D}|RusClimate.EmailVerificationService.DAL.Postgres.Repository\\RusClimate.EmailVerificationService.DAL.Postgres.Repository.csproj|c:\\users\\roko000000160\\source\\repos\\rusclimate.emailverificationservice\\rusclimate.emailverificationservice.dal.postgres.repository\\emailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B09E3AC-81CD-4071-B0DF-86331D1AF65D}|RusClimate.EmailVerificationService.DAL.Postgres.Repository\\RusClimate.EmailVerificationService.DAL.Postgres.Repository.csproj|solutionrelative:rusclimate.emailverificationservice.dal.postgres.repository\\emailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D32AB99-CE02-4896-934D-ED237A6D6014}|RusClimate.EmailVerificationService.PL.WebAPI\\RusClimate.EmailVerificationService.PL.WebAPI.csproj|c:\\users\\roko000000160\\source\\repos\\rusclimate.emailverificationservice\\rusclimate.emailverificationservice.pl.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D32AB99-CE02-4896-934D-ED237A6D6014}|RusClimate.EmailVerificationService.PL.WebAPI\\RusClimate.EmailVerificationService.PL.WebAPI.csproj|solutionrelative:rusclimate.emailverificationservice.pl.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05359E7A-E67F-48AF-83C8-6888F2B14F25}|RusClimate.EmailVerificationService.Common.Settings.Ioc\\RusClimate.EmailVerificationService.Common.Settings.Ioc.csproj|c:\\users\\roko000000160\\source\\repos\\rusclimate.emailverificationservice\\rusclimate.emailverificationservice.common.settings.ioc\\emailverificationmodules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05359E7A-E67F-48AF-83C8-6888F2B14F25}|RusClimate.EmailVerificationService.Common.Settings.Ioc\\RusClimate.EmailVerificationService.Common.Settings.Ioc.csproj|solutionrelative:rusclimate.emailverificationservice.common.settings.ioc\\emailverificationmodules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51AC3D40-0198-4E05-BC69-4EB9D0D3A126}|RusClimate.EmailVerificationService.Common.Settings\\RusClimate.EmailVerificationService.Common.Settings.csproj|c:\\users\\roko000000160\\source\\repos\\rusclimate.emailverificationservice\\rusclimate.emailverificationservice.common.settings\\emailverificationsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51AC3D40-0198-4E05-BC69-4EB9D0D3A126}|RusClimate.EmailVerificationService.Common.Settings\\RusClimate.EmailVerificationService.Common.Settings.csproj|solutionrelative:rusclimate.emailverificationservice.common.settings\\emailverificationsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD343F3-6AF5-49B1-9204-00E00F3FEFEA}|RusClimate.EmailVerificationService.BLL.Service\\RusClimate.EmailVerificationService.BLL.Service.csproj|c:\\users\\roko000000160\\source\\repos\\rusclimate.emailverificationservice\\rusclimate.emailverificationservice.bll.service\\ioc\\bllconfigurator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD343F3-6AF5-49B1-9204-00E00F3FEFEA}|RusClimate.EmailVerificationService.BLL.Service\\RusClimate.EmailVerificationService.BLL.Service.csproj|solutionrelative:rusclimate.emailverificationservice.bll.service\\ioc\\bllconfigurator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D32AB99-CE02-4896-934D-ED237A6D6014}|RusClimate.EmailVerificationService.PL.WebAPI\\RusClimate.EmailVerificationService.PL.WebAPI.csproj|c:\\users\\roko000000160\\source\\repos\\rusclimate.emailverificationservice\\rusclimate.emailverificationservice.pl.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D32AB99-CE02-4896-934D-ED237A6D6014}|RusClimate.EmailVerificationService.PL.WebAPI\\RusClimate.EmailVerificationService.PL.WebAPI.csproj|solutionrelative:rusclimate.emailverificationservice.pl.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5788FB6-C356-4647-BADB-E0857A7E5F0A}|RusClimate.EmailVerificationService.DAL.Postgres.Interface\\RusClimate.EmailVerificationService.DAL.Postgres.Interface.csproj|c:\\users\\roko000000160\\source\\repos\\rusclimate.emailverificationservice\\rusclimate.emailverificationservice.dal.postgres.interface\\iemailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5788FB6-C356-4647-BADB-E0857A7E5F0A}|RusClimate.EmailVerificationService.DAL.Postgres.Interface\\RusClimate.EmailVerificationService.DAL.Postgres.Interface.csproj|solutionrelative:rusclimate.emailverificationservice.dal.postgres.interface\\iemailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8138E5DB-0C95-40FA-BD88-D8A2F8C32BDC}|RusClimate.EmailVerificationService.DAL.Postgres.EF\\RusClimate.EmailVerificationService.DAL.Postgres.EF.csproj|c:\\users\\roko000000160\\source\\repos\\rusclimate.emailverificationservice\\rusclimate.emailverificationservice.dal.postgres.ef\\models\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8138E5DB-0C95-40FA-BD88-D8A2F8C32BDC}|RusClimate.EmailVerificationService.DAL.Postgres.EF\\RusClimate.EmailVerificationService.DAL.Postgres.EF.csproj|solutionrelative:rusclimate.emailverificationservice.dal.postgres.ef\\models\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD343F3-6AF5-49B1-9204-00E00F3FEFEA}|RusClimate.EmailVerificationService.BLL.Service\\RusClimate.EmailVerificationService.BLL.Service.csproj|c:\\users\\roko000000160\\source\\repos\\rusclimate.emailverificationservice\\rusclimate.emailverificationservice.bll.service\\models\\emaildata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD343F3-6AF5-49B1-9204-00E00F3FEFEA}|RusClimate.EmailVerificationService.BLL.Service\\RusClimate.EmailVerificationService.BLL.Service.csproj|solutionrelative:rusclimate.emailverificationservice.bll.service\\models\\emaildata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90A2BD8-457C-4DB9-A6C8-50378415EEAE}|RusClimate.EmailVerificationService.BLL.Interface\\RusClimate.EmailVerificationService.BLL.Interface.csproj|c:\\users\\roko000000160\\source\\repos\\rusclimate.emailverificationservice\\rusclimate.emailverificationservice.bll.interface\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90A2BD8-457C-4DB9-A6C8-50378415EEAE}|RusClimate.EmailVerificationService.BLL.Interface\\RusClimate.EmailVerificationService.BLL.Interface.csproj|solutionrelative:rusclimate.emailverificationservice.bll.interface\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8138E5DB-0C95-40FA-BD88-D8A2F8C32BDC}|RusClimate.EmailVerificationService.DAL.Postgres.EF\\RusClimate.EmailVerificationService.DAL.Postgres.EF.csproj|c:\\users\\roko000000160\\source\\repos\\rusclimate.emailverificationservice\\rusclimate.emailverificationservice.dal.postgres.ef\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8138E5DB-0C95-40FA-BD88-D8A2F8C32BDC}|RusClimate.EmailVerificationService.DAL.Postgres.EF\\RusClimate.EmailVerificationService.DAL.Postgres.EF.csproj|solutionrelative:rusclimate.emailverificationservice.dal.postgres.ef\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8138E5DB-0C95-40FA-BD88-D8A2F8C32BDC}|RusClimate.EmailVerificationService.DAL.Postgres.EF\\RusClimate.EmailVerificationService.DAL.Postgres.EF.csproj|c:\\users\\roko000000160\\source\\repos\\rusclimate.emailverificationservice\\rusclimate.emailverificationservice.dal.postgres.ef\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8138E5DB-0C95-40FA-BD88-D8A2F8C32BDC}|RusClimate.EmailVerificationService.DAL.Postgres.EF\\RusClimate.EmailVerificationService.DAL.Postgres.EF.csproj|solutionrelative:rusclimate.emailverificationservice.dal.postgres.ef\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B09E3AC-81CD-4071-B0DF-86331D1AF65D}|RusClimate.EmailVerificationService.DAL.Postgres.Repository\\RusClimate.EmailVerificationService.DAL.Postgres.Repository.csproj|c:\\users\\roko000000160\\source\\repos\\rusclimate.emailverificationservice\\rusclimate.emailverificationservice.dal.postgres.repository\\ioc\\dalconfigurator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B09E3AC-81CD-4071-B0DF-86331D1AF65D}|RusClimate.EmailVerificationService.DAL.Postgres.Repository\\RusClimate.EmailVerificationService.DAL.Postgres.Repository.csproj|solutionrelative:rusclimate.emailverificationservice.dal.postgres.repository\\ioc\\dalconfigurator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D32AB99-CE02-4896-934D-ED237A6D6014}|RusClimate.EmailVerificationService.PL.WebAPI\\RusClimate.EmailVerificationService.PL.WebAPI.csproj|c:\\users\\roko000000160\\source\\repos\\rusclimate.emailverificationservice\\rusclimate.emailverificationservice.pl.webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D32AB99-CE02-4896-934D-ED237A6D6014}|RusClimate.EmailVerificationService.PL.WebAPI\\RusClimate.EmailVerificationService.PL.WebAPI.csproj|solutionrelative:rusclimate.emailverificationservice.pl.webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 316,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CheckInputModel.cs",
+              "DocumentMoniker": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.PL.WebAPI\\Models\\CheckInputModel.cs",
+              "RelativeDocumentMoniker": "RusClimate.EmailVerificationService.PL.WebAPI\\Models\\CheckInputModel.cs",
+              "ToolTip": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.PL.WebAPI\\Models\\CheckInputModel.cs",
+              "RelativeToolTip": "RusClimate.EmailVerificationService.PL.WebAPI\\Models\\CheckInputModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T15:23:40.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SendInputModel.cs",
+              "DocumentMoniker": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.PL.WebAPI\\Models\\SendInputModel.cs",
+              "RelativeDocumentMoniker": "RusClimate.EmailVerificationService.PL.WebAPI\\Models\\SendInputModel.cs",
+              "ToolTip": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.PL.WebAPI\\Models\\SendInputModel.cs",
+              "RelativeToolTip": "RusClimate.EmailVerificationService.PL.WebAPI\\Models\\SendInputModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T15:19:19.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TokenLengthAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.PL.WebAPI\\Attributes\\TokenLengthAttribute.cs",
+              "RelativeDocumentMoniker": "RusClimate.EmailVerificationService.PL.WebAPI\\Attributes\\TokenLengthAttribute.cs",
+              "ToolTip": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.PL.WebAPI\\Attributes\\TokenLengthAttribute.cs",
+              "RelativeToolTip": "RusClimate.EmailVerificationService.PL.WebAPI\\Attributes\\TokenLengthAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T15:15:01.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "RusClimate.EmailVerificationService.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "RusClimate.EmailVerificationService.Tests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T15:09:34.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmailVerificationModules.cs",
+              "DocumentMoniker": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.Common.Settings.Ioc\\EmailVerificationModules.cs",
+              "RelativeDocumentMoniker": "RusClimate.EmailVerificationService.Common.Settings.Ioc\\EmailVerificationModules.cs",
+              "ToolTip": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.Common.Settings.Ioc\\EmailVerificationModules.cs",
+              "RelativeToolTip": "RusClimate.EmailVerificationService.Common.Settings.Ioc\\EmailVerificationModules.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T13:15:17.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmailVerificationSettings.cs",
+              "DocumentMoniker": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.Common.Settings\\EmailVerificationSettings.cs",
+              "RelativeDocumentMoniker": "RusClimate.EmailVerificationService.Common.Settings\\EmailVerificationSettings.cs",
+              "ToolTip": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.Common.Settings\\EmailVerificationSettings.cs",
+              "RelativeToolTip": "RusClimate.EmailVerificationService.Common.Settings\\EmailVerificationSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T13:08:46.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.DAL.Postgres.EF\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "RusClimate.EmailVerificationService.DAL.Postgres.EF\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.DAL.Postgres.EF\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "RusClimate.EmailVerificationService.DAL.Postgres.EF\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T08:45:53.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.BLL.Service\\Adapters\\EmailAdapter.cs",
+              "RelativeDocumentMoniker": "RusClimate.EmailVerificationService.BLL.Service\\Adapters\\EmailAdapter.cs",
+              "ToolTip": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.BLL.Service\\Adapters\\EmailAdapter.cs",
+              "RelativeToolTip": "RusClimate.EmailVerificationService.BLL.Service\\Adapters\\EmailAdapter.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T07:09:45.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmailData.cs",
+              "DocumentMoniker": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.BLL.Service\\Models\\EmailData.cs",
+              "RelativeDocumentMoniker": "RusClimate.EmailVerificationService.BLL.Service\\Models\\EmailData.cs",
+              "ToolTip": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.BLL.Service\\Models\\EmailData.cs",
+              "RelativeToolTip": "RusClimate.EmailVerificationService.BLL.Service\\Models\\EmailData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T07:08:22.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.BLL.Interface\\IEmailService.cs",
+              "RelativeDocumentMoniker": "RusClimate.EmailVerificationService.BLL.Interface\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.BLL.Interface\\IEmailService.cs",
+              "RelativeToolTip": "RusClimate.EmailVerificationService.BLL.Interface\\IEmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T06:49:44.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.BLL.Service\\EmailService.cs",
+              "RelativeDocumentMoniker": "RusClimate.EmailVerificationService.BLL.Service\\EmailService.cs",
+              "ToolTip": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.BLL.Service\\EmailService.cs",
+              "RelativeToolTip": "RusClimate.EmailVerificationService.BLL.Service\\EmailService.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAIAwwC8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T06:49:22.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BllConfigurator.cs",
+              "DocumentMoniker": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.BLL.Service\\IoC\\BllConfigurator.cs",
+              "RelativeDocumentMoniker": "RusClimate.EmailVerificationService.BLL.Service\\IoC\\BllConfigurator.cs",
+              "ToolTip": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.BLL.Service\\IoC\\BllConfigurator.cs",
+              "RelativeToolTip": "RusClimate.EmailVerificationService.BLL.Service\\IoC\\BllConfigurator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T06:22:04.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DalConfigurator.cs",
+              "DocumentMoniker": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.DAL.Postgres.Repository\\IoC\\DalConfigurator.cs",
+              "RelativeDocumentMoniker": "RusClimate.EmailVerificationService.DAL.Postgres.Repository\\IoC\\DalConfigurator.cs",
+              "ToolTip": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.DAL.Postgres.Repository\\IoC\\DalConfigurator.cs",
+              "RelativeToolTip": "RusClimate.EmailVerificationService.DAL.Postgres.Repository\\IoC\\DalConfigurator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T06:14:47.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.DAL.Postgres.Repository\\EmailRepository.cs",
+              "RelativeDocumentMoniker": "RusClimate.EmailVerificationService.DAL.Postgres.Repository\\EmailRepository.cs",
+              "ToolTip": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.DAL.Postgres.Repository\\EmailRepository.cs",
+              "RelativeToolTip": "RusClimate.EmailVerificationService.DAL.Postgres.Repository\\EmailRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswCYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T06:14:14.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IEmailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.DAL.Postgres.Interface\\IEmailRepository.cs",
+              "RelativeDocumentMoniker": "RusClimate.EmailVerificationService.DAL.Postgres.Interface\\IEmailRepository.cs",
+              "ToolTip": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.DAL.Postgres.Interface\\IEmailRepository.cs",
+              "RelativeToolTip": "RusClimate.EmailVerificationService.DAL.Postgres.Interface\\IEmailRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T06:13:53.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.PL.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "RusClimate.EmailVerificationService.PL.WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.PL.WebAPI\\appsettings.json",
+              "RelativeToolTip": "RusClimate.EmailVerificationService.PL.WebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-20T06:07:38.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Email.cs",
+              "DocumentMoniker": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.DAL.Postgres.EF\\Models\\Email.cs",
+              "RelativeDocumentMoniker": "RusClimate.EmailVerificationService.DAL.Postgres.EF\\Models\\Email.cs",
+              "ToolTip": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.DAL.Postgres.EF\\Models\\Email.cs",
+              "RelativeToolTip": "RusClimate.EmailVerificationService.DAL.Postgres.EF\\Models\\Email.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T05:58:46.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.DAL.Postgres.EF\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "RusClimate.EmailVerificationService.DAL.Postgres.EF\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.DAL.Postgres.EF\\ApplicationDbContext.cs",
+              "RelativeToolTip": "RusClimate.EmailVerificationService.DAL.Postgres.EF\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T05:55:39.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.PL.WebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "RusClimate.EmailVerificationService.PL.WebAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.PL.WebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "RusClimate.EmailVerificationService.PL.WebAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T13:54:56.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.PL.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "RusClimate.EmailVerificationService.PL.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.PL.WebAPI\\Program.cs",
+              "RelativeToolTip": "RusClimate.EmailVerificationService.PL.WebAPI\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T13:54:16.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VerifyController.cs",
+              "DocumentMoniker": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.PL.WebAPI\\Controllers\\VerifyController.cs",
+              "RelativeDocumentMoniker": "RusClimate.EmailVerificationService.PL.WebAPI\\Controllers\\VerifyController.cs",
+              "ToolTip": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.PL.WebAPI\\Controllers\\VerifyController.cs",
+              "RelativeToolTip": "RusClimate.EmailVerificationService.PL.WebAPI\\Controllers\\VerifyController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T13:50:43.57Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

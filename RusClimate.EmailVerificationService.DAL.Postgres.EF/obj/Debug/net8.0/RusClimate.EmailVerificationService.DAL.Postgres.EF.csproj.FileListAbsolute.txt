@@ -1,0 +1,14 @@
+C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.DAL.Postgres.EF\bin\Debug\net8.0\RusClimate.EmailVerificationService.DAL.Postgres.EF.deps.json
+C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.DAL.Postgres.EF\bin\Debug\net8.0\RusClimate.EmailVerificationService.DAL.Postgres.EF.dll
+C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.DAL.Postgres.EF\bin\Debug\net8.0\RusClimate.EmailVerificationService.DAL.Postgres.EF.pdb
+C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.DAL.Postgres.EF\obj\Debug\net8.0\RusClimate.EmailVerificationService.DAL.Postgres.EF.csproj.AssemblyReference.cache
+C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.DAL.Postgres.EF\obj\Debug\net8.0\RusClimate.EmailVerificationService.DAL.Postgres.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.DAL.Postgres.EF\obj\Debug\net8.0\RusClimate.EmailVerificationService.DAL.Postgres.EF.AssemblyInfoInputs.cache
+C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.DAL.Postgres.EF\obj\Debug\net8.0\RusClimate.EmailVerificationService.DAL.Postgres.EF.AssemblyInfo.cs
+C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.DAL.Postgres.EF\obj\Debug\net8.0\RusClimate.EmailVerificationService.DAL.Postgres.EF.csproj.CoreCompileInputs.cache
+C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.DAL.Postgres.EF\obj\Debug\net8.0\RusClimate.EmailVerificationService.DAL.Postgres.EF.dll
+C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.DAL.Postgres.EF\obj\Debug\net8.0\refint\RusClimate.EmailVerificationService.DAL.Postgres.EF.dll
+C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.DAL.Postgres.EF\obj\Debug\net8.0\RusClimate.EmailVerificationService.DAL.Postgres.EF.pdb
+C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.DAL.Postgres.EF\obj\Debug\net8.0\ref\RusClimate.EmailVerificationService.DAL.Postgres.EF.dll
+C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.DAL.Postgres.EF\bin\Debug\net8.0\RusClimate.EmailVerificationService.DAL.Postgres.EF.runtimeconfig.json
+C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.DAL.Postgres.EF\obj\Debug\net8.0\RusClimate.EmailVerificationService.DAL.Postgres.EF.genruntimeconfig.cache

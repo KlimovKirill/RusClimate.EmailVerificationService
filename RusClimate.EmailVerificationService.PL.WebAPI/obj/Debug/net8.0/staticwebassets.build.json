@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dd6hmJrvbRhwUCVdRZE4zeCY3bR3IPdvj+v54NwCxsE=",
+  "Source": "RusClimate.EmailVerificationService.PL.WebAPI",
+  "BasePath": "_content/RusClimate.EmailVerificationService.PL.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

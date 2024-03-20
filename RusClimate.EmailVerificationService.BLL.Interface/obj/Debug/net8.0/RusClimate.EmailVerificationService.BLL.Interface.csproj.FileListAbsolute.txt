@@ -1,0 +1,11 @@
+C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.BLL.Interface\bin\Debug\net8.0\RusClimate.EmailVerificationService.BLL.Interface.deps.json
+C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.BLL.Interface\bin\Debug\net8.0\RusClimate.EmailVerificationService.BLL.Interface.dll
+C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.BLL.Interface\bin\Debug\net8.0\RusClimate.EmailVerificationService.BLL.Interface.pdb
+C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.BLL.Interface\obj\Debug\net8.0\RusClimate.EmailVerificationService.BLL.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.BLL.Interface\obj\Debug\net8.0\RusClimate.EmailVerificationService.BLL.Interface.AssemblyInfoInputs.cache
+C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.BLL.Interface\obj\Debug\net8.0\RusClimate.EmailVerificationService.BLL.Interface.AssemblyInfo.cs
+C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.BLL.Interface\obj\Debug\net8.0\RusClimate.EmailVerificationService.BLL.Interface.csproj.CoreCompileInputs.cache
+C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.BLL.Interface\obj\Debug\net8.0\RusClimate.EmailVerificationService.BLL.Interface.dll
+C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.BLL.Interface\obj\Debug\net8.0\refint\RusClimate.EmailVerificationService.BLL.Interface.dll
+C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.BLL.Interface\obj\Debug\net8.0\RusClimate.EmailVerificationService.BLL.Interface.pdb
+C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.BLL.Interface\obj\Debug\net8.0\ref\RusClimate.EmailVerificationService.BLL.Interface.dll
