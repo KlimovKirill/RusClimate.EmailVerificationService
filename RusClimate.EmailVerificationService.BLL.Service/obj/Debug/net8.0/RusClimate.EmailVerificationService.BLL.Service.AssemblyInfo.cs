@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RusClimate.EmailVerificationService.BLL.Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38c12e471fcf39daa44a5868ec0b17e017f04409")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7215d40da6993dcd3ba92a784fba081d5056643f")]
 [assembly: System.Reflection.AssemblyProductAttribute("RusClimate.EmailVerificationService.BLL.Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RusClimate.EmailVerificationService.BLL.Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

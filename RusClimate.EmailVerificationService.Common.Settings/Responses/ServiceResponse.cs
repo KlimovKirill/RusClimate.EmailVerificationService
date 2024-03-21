@@ -1,4 +1,6 @@
-﻿namespace RusClimate.EmailVerificationService.Common.Data.Responses
+﻿using RusClimate.EmailVerificationService.Common.Data.Enums;
+
+namespace RusClimate.EmailVerificationService.Common.Data.Responses
 {
     public class ServiceResponse
     {
@@ -15,9 +17,9 @@
             ErrorMessage = errorMessage;
         }
 
-        public static ServiceResponse Ok() => new ServiceResponse(true, 200, null);
+        public static ServiceResponse Ok() => new ServiceResponse(true, (int)AppStatusCodes.Success200Ok, null);
 
-        public static ServiceResponse Error(int errorCode = 0, string errorMessage = null) =>
+        public static ServiceResponse Error(int errorCode, string errorMessage = null) =>
             new ServiceResponse(false, errorCode, errorMessage);
     }
 }

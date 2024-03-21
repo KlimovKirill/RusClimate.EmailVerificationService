@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.Common.Settings\\RusClimate.EmailVerificationService.Common.Data.csproj",
-      "projectName": "RusClimate.EmailVerificationService.Common.Data",
-      "projectPath": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.Common.Settings\\RusClimate.EmailVerificationService.Common.Data.csproj",
+      "projectUniqueName": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.Common.Settings\\RusClimate.EmailVerificationService.Common.Settings.csproj",
+      "projectName": "RusClimate.EmailVerificationService.Common.Settings",
+      "projectPath": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.Common.Settings\\RusClimate.EmailVerificationService.Common.Settings.csproj",
       "packagesPath": "C:\\Users\\ROKO000000160\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.Common.Settings\\obj\\",
       "projectStyle": "PackageReference",
