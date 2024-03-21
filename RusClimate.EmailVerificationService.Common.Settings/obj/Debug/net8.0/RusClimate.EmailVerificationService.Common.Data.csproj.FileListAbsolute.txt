@@ -1,0 +1,12 @@
+C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.Common.Settings\bin\Debug\net8.0\RusClimate.EmailVerificationService.Common.Data.deps.json
+C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.Common.Settings\bin\Debug\net8.0\RusClimate.EmailVerificationService.Common.Data.dll
+C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.Common.Settings\bin\Debug\net8.0\RusClimate.EmailVerificationService.Common.Data.pdb
+C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.Common.Settings\obj\Debug\net8.0\RusClimate.EmailVerificationService.Common.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.Common.Settings\obj\Debug\net8.0\RusClimate.EmailVerificationService.Common.Data.AssemblyInfoInputs.cache
+C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.Common.Settings\obj\Debug\net8.0\RusClimate.EmailVerificationService.Common.Data.AssemblyInfo.cs
+C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.Common.Settings\obj\Debug\net8.0\RusClimate.EmailVerificationService.Common.Data.csproj.CoreCompileInputs.cache
+C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.Common.Settings\obj\Debug\net8.0\RusClimate.EmailVerificationService.Common.Data.sourcelink.json
+C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.Common.Settings\obj\Debug\net8.0\RusClimate.EmailVerificationService.Common.Data.dll
+C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.Common.Settings\obj\Debug\net8.0\refint\RusClimate.EmailVerificationService.Common.Data.dll
+C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.Common.Settings\obj\Debug\net8.0\RusClimate.EmailVerificationService.Common.Data.pdb
+C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.Common.Settings\obj\Debug\net8.0\ref\RusClimate.EmailVerificationService.Common.Data.dll

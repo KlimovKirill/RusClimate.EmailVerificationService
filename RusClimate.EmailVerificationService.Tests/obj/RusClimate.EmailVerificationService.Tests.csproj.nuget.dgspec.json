@@ -68,6 +68,89 @@
         }
       }
     },
+    "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.BLL.Service\\RusClimate.EmailVerificationService.BLL.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.BLL.Service\\RusClimate.EmailVerificationService.BLL.Service.csproj",
+        "projectName": "RusClimate.EmailVerificationService.BLL.Service",
+        "projectPath": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.BLL.Service\\RusClimate.EmailVerificationService.BLL.Service.csproj",
+        "packagesPath": "C:\\Users\\ROKO000000160\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.BLL.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ROKO000000160\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.BLL.Interface\\RusClimate.EmailVerificationService.BLL.Interface.csproj": {
+                "projectPath": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.BLL.Interface\\RusClimate.EmailVerificationService.BLL.Interface.csproj"
+              },
+              "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.Common.Settings\\RusClimate.EmailVerificationService.Common.Data.csproj": {
+                "projectPath": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.Common.Settings\\RusClimate.EmailVerificationService.Common.Data.csproj"
+              },
+              "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.DAL.Postgres.EF\\RusClimate.EmailVerificationService.DAL.Postgres.EF.csproj": {
+                "projectPath": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.DAL.Postgres.EF\\RusClimate.EmailVerificationService.DAL.Postgres.EF.csproj"
+              },
+              "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.DAL.Postgres.Interface\\RusClimate.EmailVerificationService.DAL.Postgres.Interface.csproj": {
+                "projectPath": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.DAL.Postgres.Interface\\RusClimate.EmailVerificationService.DAL.Postgres.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.Common.Settings\\RusClimate.EmailVerificationService.Common.Data.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -204,6 +287,70 @@
         }
       }
     },
+    "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.DAL.Postgres.Interface\\RusClimate.EmailVerificationService.DAL.Postgres.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.DAL.Postgres.Interface\\RusClimate.EmailVerificationService.DAL.Postgres.Interface.csproj",
+        "projectName": "RusClimate.EmailVerificationService.DAL.Postgres.Interface",
+        "projectPath": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.DAL.Postgres.Interface\\RusClimate.EmailVerificationService.DAL.Postgres.Interface.csproj",
+        "packagesPath": "C:\\Users\\ROKO000000160\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.DAL.Postgres.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ROKO000000160\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.DAL.Postgres.EF\\RusClimate.EmailVerificationService.DAL.Postgres.EF.csproj": {
+                "projectPath": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.DAL.Postgres.EF\\RusClimate.EmailVerificationService.DAL.Postgres.EF.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.Tests\\RusClimate.EmailVerificationService.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -231,8 +378,14 @@
               "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.BLL.Interface\\RusClimate.EmailVerificationService.BLL.Interface.csproj": {
                 "projectPath": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.BLL.Interface\\RusClimate.EmailVerificationService.BLL.Interface.csproj"
               },
+              "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.BLL.Service\\RusClimate.EmailVerificationService.BLL.Service.csproj": {
+                "projectPath": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.BLL.Service\\RusClimate.EmailVerificationService.BLL.Service.csproj"
+              },
               "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.DAL.Postgres.EF\\RusClimate.EmailVerificationService.DAL.Postgres.EF.csproj": {
                 "projectPath": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.DAL.Postgres.EF\\RusClimate.EmailVerificationService.DAL.Postgres.EF.csproj"
+              },
+              "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.DAL.Postgres.Interface\\RusClimate.EmailVerificationService.DAL.Postgres.Interface.csproj": {
+                "projectPath": "C:\\Users\\ROKO000000160\\Source\\Repos\\RusClimate.EmailVerificationService\\RusClimate.EmailVerificationService.DAL.Postgres.Interface\\RusClimate.EmailVerificationService.DAL.Postgres.Interface.csproj"
               }
             }
           }
@@ -256,9 +409,21 @@
               "target": "Package",
               "version": "[4.18.1, )"
             },
+            "AutoFixture.AutoMoq": {
+              "target": "Package",
+              "version": "[4.18.1, )"
+            },
+            "AutoFixture.Xunit2": {
+              "target": "Package",
+              "version": "[4.18.1, )"
+            },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[17.8.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[4.1.0, )"
             },
             "coverlet.collector": {
               "target": "Package",

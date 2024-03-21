@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\RusClimate.EmailVerificationService.Common.Settings\RusClimate.EmailVerificationService.Common.Data.csproj" />
+  </ItemGroup>
+
 </Project>

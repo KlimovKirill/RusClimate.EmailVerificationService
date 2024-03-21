@@ -4,20 +4,20 @@
     {
         public bool IsOk { get; }
 
-        public string ErrorKey { get; }
+        public int ErrorCode { get; }
         
         public string ErrorMessage { get; }
 
-        public ServiceResponse(bool isOk, string errorKey, string errorMessage)
+        public ServiceResponse(bool isOk, int errorCode, string errorMessage)
         {
             IsOk = isOk;
-            ErrorKey = errorKey;
+            ErrorCode = errorCode;
             ErrorMessage = errorMessage;
         }
 
-        public static ServiceResponse Ok() => new ServiceResponse(true, null, null);
+        public static ServiceResponse Ok() => new ServiceResponse(true, 200, null);
 
-        public static ServiceResponse Error(string errorKey = null, string errorMessage = null) =>
-            new ServiceResponse(false, errorKey, errorMessage);
+        public static ServiceResponse Error(int errorCode = 0, string errorMessage = null) =>
+            new ServiceResponse(false, errorCode, errorMessage);
     }
 }

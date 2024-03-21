@@ -12,3 +12,4 @@ C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClima
 C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.DAL.Postgres.EF\obj\Debug\net8.0\ref\RusClimate.EmailVerificationService.DAL.Postgres.EF.dll
 C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.DAL.Postgres.EF\bin\Debug\net8.0\RusClimate.EmailVerificationService.DAL.Postgres.EF.runtimeconfig.json
 C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.DAL.Postgres.EF\obj\Debug\net8.0\RusClimate.EmailVerificationService.DAL.Postgres.EF.genruntimeconfig.cache
+C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.DAL.Postgres.EF\obj\Debug\net8.0\RusClimate.EmailVerificationService.DAL.Postgres.EF.sourcelink.json

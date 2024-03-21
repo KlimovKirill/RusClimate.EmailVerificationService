@@ -13,3 +13,4 @@ C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClima
 C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.DAL.Postgres.Interface\bin\Debug\net8.0\RusClimate.EmailVerificationService.DAL.Postgres.EF.pdb
 C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.DAL.Postgres.Interface\obj\Debug\net8.0\RusClimate.EmailVerificationService.DAL.Postgres.Interface.csproj.AssemblyReference.cache
 C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.DAL.Postgres.Interface\obj\Debug\net8.0\RusClima.62B2700E.Up2Date
+C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.DAL.Postgres.Interface\obj\Debug\net8.0\RusClimate.EmailVerificationService.DAL.Postgres.Interface.sourcelink.json

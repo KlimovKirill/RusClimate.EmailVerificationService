@@ -1,4 +1,5 @@
-﻿using RusClimate.EmailVerificationService.BLL.Interface;
+﻿using Microsoft.AspNetCore.Http;
+using RusClimate.EmailVerificationService.BLL.Interface;
 using RusClimate.EmailVerificationService.BLL.Service.Adapters;
 using RusClimate.EmailVerificationService.BLL.Service.Helpers;
 using RusClimate.EmailVerificationService.BLL.Service.Models;
@@ -46,7 +47,7 @@ namespace RusClimate.EmailVerificationService.BLL.Service
 
                 if (calculatedInterval >= _emailVerificationSettings.EmailTtlSeconds)
                 {
-                    return ServiceResponse.Error("422", "UnprocessableEntity");
+                    return ServiceResponse.Error(StatusCodes.Status422UnprocessableEntity);
                 }
 
                 //if current token has expired, we need to generate new token and send it
@@ -72,7 +73,7 @@ namespace RusClimate.EmailVerificationService.BLL.Service
         {
             var email = (await _emailRepository.GetByToken(token)).ToEmailBll();
             if (email is null)
-                return ServiceResponse.Error("404", "NotFound");
+                return ServiceResponse.Error(StatusCodes.Status404NotFound);
 
             var calculatedInterval = DateTime.UtcNow - email.Sent_Date;
 
@@ -80,7 +81,7 @@ namespace RusClimate.EmailVerificationService.BLL.Service
 
             if (calculatedInterval >= _emailVerificationSettings.TokenTtlSeconds)
             {
-                return ServiceResponse.Error("404", "NotFound");
+                return ServiceResponse.Error(StatusCodes.Status404NotFound);
             }
             else
             {
@@ -89,7 +90,7 @@ namespace RusClimate.EmailVerificationService.BLL.Service
                 var decryptParts = decryptToken.Split(" ", 2);
 
                 if (decryptParts[0] != email.Address)
-                    return ServiceResponse.Error("403", "Forbidden");
+                    return ServiceResponse.Error(StatusCodes.Status403Forbidden);
 
                 email.IsVerified = true;
                 await _emailRepository.Update(email.ToEmailDal());
@@ -116,7 +117,7 @@ namespace RusClimate.EmailVerificationService.BLL.Service
             }
             catch (Exception ex)
             {
-                return ServiceResponse.Error("502", "BadGateway");
+                return ServiceResponse.Error(StatusCodes.Status502BadGateway);
             }
 
             return ServiceResponse.Ok();

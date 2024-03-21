@@ -11,7 +11,7 @@
           "Microsoft.AspNetCore.Mvc.Abstractions": "2.2.0",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0",
           "RusClimate.EmailVerificationService.BLL.Interface": "1.0.0",
-          "RusClimate.EmailVerificationService.Common.Settings": "1.0.0",
+          "RusClimate.EmailVerificationService.Common.Data": "1.0.0",
           "RusClimate.EmailVerificationService.DAL.Postgres.EF": "1.0.0",
           "RusClimate.EmailVerificationService.DAL.Postgres.Interface": "1.0.0"
         },
@@ -240,13 +240,16 @@
       "System.Buffers/4.5.0": {},
       "System.Text.Encodings.Web/4.5.0": {},
       "RusClimate.EmailVerificationService.BLL.Interface/1.0.0": {
+        "dependencies": {
+          "RusClimate.EmailVerificationService.Common.Data": "1.0.0"
+        },
         "runtime": {
           "RusClimate.EmailVerificationService.BLL.Interface.dll": {}
         }
       },
-      "RusClimate.EmailVerificationService.Common.Settings/1.0.0": {
+      "RusClimate.EmailVerificationService.Common.Data/1.0.0": {
         "runtime": {
-          "RusClimate.EmailVerificationService.Common.Settings.dll": {}
+          "RusClimate.EmailVerificationService.Common.Data.dll": {}
         }
       },
       "RusClimate.EmailVerificationService.DAL.Postgres.EF/1.0.0": {
@@ -433,7 +436,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "RusClimate.EmailVerificationService.Common.Settings/1.0.0": {
+    "RusClimate.EmailVerificationService.Common.Data/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

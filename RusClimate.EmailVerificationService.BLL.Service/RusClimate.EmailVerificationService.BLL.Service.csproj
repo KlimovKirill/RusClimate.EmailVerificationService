@@ -13,7 +13,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\RusClimate.EmailVerificationService.BLL.Interface\RusClimate.EmailVerificationService.BLL.Interface.csproj" />
-    <ProjectReference Include="..\RusClimate.EmailVerificationService.Common.Settings\RusClimate.EmailVerificationService.Common.Settings.csproj" />
+    <ProjectReference Include="..\RusClimate.EmailVerificationService.Common.Settings\RusClimate.EmailVerificationService.Common.Data.csproj" />
     <ProjectReference Include="..\RusClimate.EmailVerificationService.DAL.Postgres.EF\RusClimate.EmailVerificationService.DAL.Postgres.EF.csproj" />
     <ProjectReference Include="..\RusClimate.EmailVerificationService.DAL.Postgres.Interface\RusClimate.EmailVerificationService.DAL.Postgres.Interface.csproj" />
   </ItemGroup>

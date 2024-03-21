@@ -586,6 +586,9 @@
       },
       "System.Threading.Channels/6.0.0": {},
       "RusClimate.EmailVerificationService.BLL.Interface/1.0.0": {
+        "dependencies": {
+          "RusClimate.EmailVerificationService.Common.Data": "1.0.0"
+        },
         "runtime": {
           "RusClimate.EmailVerificationService.BLL.Interface.dll": {}
         }
@@ -595,7 +598,7 @@
           "Microsoft.AspNetCore.Mvc.Abstractions": "2.2.0",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0",
           "RusClimate.EmailVerificationService.BLL.Interface": "1.0.0",
-          "RusClimate.EmailVerificationService.Common.Settings": "1.0.0",
+          "RusClimate.EmailVerificationService.Common.Data": "1.0.0",
           "RusClimate.EmailVerificationService.DAL.Postgres.EF": "1.0.0",
           "RusClimate.EmailVerificationService.DAL.Postgres.Interface": "1.0.0"
         },
@@ -603,9 +606,9 @@
           "RusClimate.EmailVerificationService.BLL.Service.dll": {}
         }
       },
-      "RusClimate.EmailVerificationService.Common.Settings/1.0.0": {
+      "RusClimate.EmailVerificationService.Common.Data/1.0.0": {
         "runtime": {
-          "RusClimate.EmailVerificationService.Common.Settings.dll": {}
+          "RusClimate.EmailVerificationService.Common.Data.dll": {}
         }
       },
       "RusClimate.EmailVerificationService.Common.Settings.Ioc/1.0.0": {
@@ -644,6 +647,14 @@
         },
         "runtime": {
           "RusClimate.EmailVerificationService.DAL.Postgres.Repository.dll": {}
+        }
+      },
+      "RusClimate.EmailVerificationService.Common.Settings.Reference/1.0.0.0": {
+        "runtime": {
+          "RusClimate.EmailVerificationService.Common.Settings.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
@@ -1042,7 +1053,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "RusClimate.EmailVerificationService.Common.Settings/1.0.0": {
+    "RusClimate.EmailVerificationService.Common.Data/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -1064,6 +1075,11 @@
     },
     "RusClimate.EmailVerificationService.DAL.Postgres.Repository/1.0.0": {
       "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RusClimate.EmailVerificationService.Common.Settings.Reference/1.0.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }

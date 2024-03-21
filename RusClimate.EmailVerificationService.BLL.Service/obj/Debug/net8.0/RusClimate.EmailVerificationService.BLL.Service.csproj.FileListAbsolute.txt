@@ -17,5 +17,6 @@ C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClima
 C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.BLL.Service\bin\Debug\net8.0\RusClimate.EmailVerificationService.DAL.Postgres.Interface.dll
 C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.BLL.Service\bin\Debug\net8.0\RusClimate.EmailVerificationService.DAL.Postgres.EF.pdb
 C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.BLL.Service\bin\Debug\net8.0\RusClimate.EmailVerificationService.DAL.Postgres.Interface.pdb
-C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.BLL.Service\bin\Debug\net8.0\RusClimate.EmailVerificationService.Common.Settings.dll
-C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.BLL.Service\bin\Debug\net8.0\RusClimate.EmailVerificationService.Common.Settings.pdb
+C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.BLL.Service\bin\Debug\net8.0\RusClimate.EmailVerificationService.Common.Data.dll
+C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.BLL.Service\bin\Debug\net8.0\RusClimate.EmailVerificationService.Common.Data.pdb
+C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.BLL.Service\obj\Debug\net8.0\RusClimate.EmailVerificationService.BLL.Service.sourcelink.json

@@ -15,3 +15,4 @@ C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClima
 C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.DAL.Postgres.Repository\obj\Debug\net8.0\refint\RusClimate.EmailVerificationService.DAL.Postgres.Repository.dll
 C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.DAL.Postgres.Repository\obj\Debug\net8.0\RusClimate.EmailVerificationService.DAL.Postgres.Repository.pdb
 C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.DAL.Postgres.Repository\obj\Debug\net8.0\ref\RusClimate.EmailVerificationService.DAL.Postgres.Repository.dll
+C:\Users\ROKO000000160\Source\Repos\RusClimate.EmailVerificationService\RusClimate.EmailVerificationService.DAL.Postgres.Repository\obj\Debug\net8.0\RusClimate.EmailVerificationService.DAL.Postgres.Repository.sourcelink.json

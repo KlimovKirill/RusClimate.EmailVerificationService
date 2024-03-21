@@ -5,8 +5,11 @@ namespace RusClimate.EmailVerificationService.BLL.Service.Adapters
 {
     public static class EmailAdapter
     {
-        public static EmailData ToEmailBll(this Email emailDal)
+        public static EmailData? ToEmailBll(this Email? emailDal)
         {
+            if (emailDal == null)
+                return null;
+
             return new EmailData
             {
                 Id = emailDal.Id,

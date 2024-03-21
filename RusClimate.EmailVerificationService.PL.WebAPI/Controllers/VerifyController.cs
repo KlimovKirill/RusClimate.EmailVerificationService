@@ -19,9 +19,11 @@ namespace RusClimate.EmailVerificationService.PL.WebAPI.Controllers
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesResponseType(StatusCodes.Status422UnprocessableEntity)]
         [ProducesResponseType(StatusCodes.Status502BadGateway)]
-        public async Task SendAsync(SendInputModel model)
+        public async Task<IActionResult> SendAsync(SendInputModel model)
         {
-            await _emailService.SendVerificationEmailAsync(model.Email, model.Text);
+            var response = await _emailService.SendVerificationEmailAsync(model.Email, model.Text);
+
+            return StatusCode(response.ErrorCode);
         }
 
         [HttpGet("check")]
@@ -29,9 +31,11 @@ namespace RusClimate.EmailVerificationService.PL.WebAPI.Controllers
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesResponseType(StatusCodes.Status403Forbidden)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
-        public async Task CheckAsync(string token)
+        public async Task<IActionResult> CheckAsync(string token)
         {
-            await _emailService.VerifyAsync(token);
+            var response = await _emailService.VerifyAsync(token);
+
+            return StatusCode(response.ErrorCode);
         }
     }
 }
