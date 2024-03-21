@@ -1,10 +1,10 @@
 ﻿using RusClimate.EmailVerificationService.BLL.Interface;
-using RusClimate.EmailVerificationService.DAL.Postgres.Interface;
+using RusClimate.EmailVerificationService.BLL.Service.Adapters;
 using RusClimate.EmailVerificationService.BLL.Service.Helpers;
 using RusClimate.EmailVerificationService.BLL.Service.Models;
-using RusClimate.EmailVerificationService.BLL.Service.Adapters;
-using RusClimate.EmailVerificationService.Common.Data.Settings;
 using RusClimate.EmailVerificationService.Common.Data.Responses;
+using RusClimate.EmailVerificationService.Common.Data.Settings;
+using RusClimate.EmailVerificationService.DAL.Postgres.Interface;
 
 namespace RusClimate.EmailVerificationService.BLL.Service
 {
@@ -23,19 +23,12 @@ namespace RusClimate.EmailVerificationService.BLL.Service
         public async Task<ServiceResponse> SendVerificationEmailAsync(string emailAddress, string text)
         {
             var emailData = (await _emailRepository.GetByEmail(emailAddress)).ToEmailBll();
-            
+
             if (emailData is null)
             {
                 var hash = GenerateHashFromEmail(emailAddress, _emailVerificationSettings.SecretKey);
 
-                try
-                {
-                    //send email
-                }
-                catch (Exception ex)
-                {
-                    return ServiceResponse.Error("502", "BadGateway");
-                }
+                SendEmail(emailAddress);
 
                 await _emailRepository.AddNewAsync(
                 new EmailData
@@ -61,28 +54,14 @@ namespace RusClimate.EmailVerificationService.BLL.Service
                 {
                     var hash = GenerateHashFromEmail(emailAddress, _emailVerificationSettings.SecretKey);
 
-                    try
-                    {
-                        //send email
-                    }
-                    catch(Exception ex)
-                    {
-                        return ServiceResponse.Error("502", "BadGateway");
-                    }
+                    SendEmail(emailAddress);
 
                     emailData.Token = hash;
                     await _emailRepository.Update(emailData.ToEmailDal());
                 }
                 else
                 {
-                    try
-                    {
-                        //send email
-                    }
-                    catch (Exception ex)
-                    {
-                        return ServiceResponse.Error("502", "BadGateway");
-                    }
+                    SendEmail(emailAddress);
                 }
             }
 
@@ -92,7 +71,7 @@ namespace RusClimate.EmailVerificationService.BLL.Service
         public async Task<ServiceResponse> VerifyAsync(string token)
         {
             var email = (await _emailRepository.GetByToken(token)).ToEmailBll();
-            if(email is null)
+            if (email is null)
                 return ServiceResponse.Error("404", "NotFound");
 
             var calculatedInterval = DateTime.UtcNow - email.Sent_Date;
@@ -121,11 +100,26 @@ namespace RusClimate.EmailVerificationService.BLL.Service
             return ServiceResponse.Ok();
         }
 
-        public static string GenerateHashFromEmail(string email, string secretKey)
+        private static string GenerateHashFromEmail(string email, string secretKey)
         {
             string stringToHash = email + " " + DateTime.UtcNow.ToString();
 
             return HashGeneratorHelper.HashFunc(stringToHash, secretKey);
+        }
+
+        private static ServiceResponse SendEmail(string emailAddress)
+        {
+            try
+            {
+                //build email schema
+                //send email
+            }
+            catch (Exception ex)
+            {
+                return ServiceResponse.Error("502", "BadGateway");
+            }
+
+            return ServiceResponse.Ok();
         }
     }
 }
